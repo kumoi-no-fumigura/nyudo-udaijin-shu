@@ -1047,6 +1047,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 31,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ndl-nyudo-udaijin-shu",
   "work": "入道右大臣集",
@@ -1059,7 +1063,7 @@
   "blocks": 32,
   "chars": 5249,
   "poems": 38,
-  "yaku": 0,
+  "yaku": 31,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T12:30:20+09:00"
